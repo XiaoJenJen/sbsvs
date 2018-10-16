@@ -3,7 +3,7 @@ Security backtest and strategy visualization system
 A trading simulator and visulization tool for security market
 Technical stack: Python, Matplotlib.pyplot, Matplotlib.finance
 
-(pic1)
+![Sample](https://github.com/XiaoJenJen/sbsvs/blob/master/record%20%23%205.jpg "record # 5.jpg")
 
 h1: Project structure
 	analysis.py: trading simulator
