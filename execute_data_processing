@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /Users/troy/Google\ Drive/182Stock_quant/3\ analyzer/1_analyzer
+python3 data_processing.py
