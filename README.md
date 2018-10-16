@@ -5,8 +5,7 @@
 * Technical stack: *Python*, *Matplotlib.pyplot*, *Matplotlib.finance*
 
 
-Sample is shown below:
-
+## Sample is shown below:
 
 ![Sample](https://github.com/XiaoJenJen/sbsvs/blob/master/record%20%23%205.jpg "record # 5.jpg")
 
